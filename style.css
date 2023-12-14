@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.btn {
+    transition: transform 0.5s;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+}
