@@ -17,6 +17,7 @@ Este proyecto es una aplicación de lista de tareas que te permite gestionar tus
 - **Editar Tareas:** Modifica el contenido de las tareas existentes.
 - **Eliminar Tareas:** Elimina tareas que ya no son relevantes.
 - **Marcar como Completadas:** Indica cuando una tarea ha sido completada.
+- **Modo noche-dia:** Puedes cambiar el tema entre oscuro y claro.
 
 ## Capturas de Pantalla
 
