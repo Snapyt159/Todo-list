@@ -2,45 +2,44 @@
 
 # To-do list
 
-## Enlace a la pagina web
+## Link to the website
 
 https://snapyt159.github.io/Todo-list/
 
 
-## Descripción
+## Description
 
-Este proyecto es una aplicación de lista de tareas que te permite gestionar tus actividades de manera eficiente. Con una interfaz simple y fácil de usar, puedes agregar, editar y eliminar tareas según tus necesidades. La aplicación también te proporciona funciones para marcar tareas como completadas y filtrarlas según su estado.
+This project is a to-do list app that allows you to manage your activities efficiently. With a simple and easy-to-use interface, you can add, edit and delete tasks according to your needs. The app also provides you with features to mark tasks as completed.
 
-## Características
+## Characteristics
 
-- **Agregar Tareas:** Añade nuevas tareas a tu lista con facilidad.
-- **Editar Tareas:** Modifica el contenido de las tareas existentes.
-- **Eliminar Tareas:** Elimina tareas que ya no son relevantes.
-- **Marcar como Completadas:** Indica cuando una tarea ha sido completada.
-- **Modo noche-dia:** Puedes cambiar el tema entre oscuro y claro.
+- **Add Tasks:** Add new tasks to your list with ease.
+- **Edit Tasks:** Modify the content of existing tasks.
+- **Delete Tasks:** Delete tasks that are no longer relevant.
+- **Mark as Completed:** Indicates when a task has been completed.
+- **Night-day mode:** You can change the theme between dark and light.
 
-## Capturas de Pantalla
+## Screenshots
 
+![Project Logo](https://github.com/Snapyt159/Todo-list/blob/master/screenshots/todo%20app%20n.jpg)
 
-![Logo de mi proyecto](https://github.com/Snapyt159/Todo-list/blob/master/screenshots/todo%20app%20n.jpg)
+![Project Logo](https://github.com/Snapyt159/Todo-list/blob/master/screenshots/todo%20app%20w.jpg)
 
-![Logo de mi proyecto](https://github.com/Snapyt159/Todo-list/blob/master/screenshots/todo%20app%20w.jpg)
+## Installation
 
-## Instalación
+1. Clone this repository.
+2. Open the `index.html` file in your browser.
 
-1. Clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
+##Contribution
 
-## Contribución
+If you want to contribute to this project, follow these steps:
 
-Si quieres contribuir a este proyecto, sigue estos pasos:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b new-feature`.
+3. Make your changes and commit: `git commit -m 'Add new functionality'`.
+4. Push to the branch: `git push origin new-feature`.
+5. Create a pull request on GitHub.
 
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b nueva-funcionalidad`.
-3. Haz tus cambios y realiza un commit: `git commit -m 'Añade nueva funcionalidad'`.
-4. Haz push a la rama: `git push origin nueva-funcionalidad`.
-5. Crea un pull request en GitHub.
+## License
 
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+This project is licensed under the [License Name] License. See the file [LICENSE.md](LICENSE.md) for more details.
